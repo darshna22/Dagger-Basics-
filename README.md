@@ -90,8 +90,9 @@ abstract class RepositoryModule {
 Extra module factory classes
 Below are the classes generated.
 
+<img src="/image.png" width="600" height="300">
 
-Note that @Provides generates the MyModule_GetInjectClassFactory class, which doesn’t exist in @Binds
+__Note that @Provides generates the MyModule_GetInjectClassFactory class, which doesn’t exist in @Binds__
 
 
 
